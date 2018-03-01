@@ -9,7 +9,7 @@ and will hopefully lead to productive team work with fewer conflicts
 and missed deadlines.
 
 ## How we will assign (and reassign) tasks
-
+    - use our group message to delegate what needs to be done
 
 
 ## How will we will track progress (and follow-up) on completion of tasks

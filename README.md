@@ -9,6 +9,7 @@
        * GitHub username 4: jlatts7
        * GitHub username 5:
    * When did you complete this exercise? 
+        6:00 pm - Wednesday (2/28/18)
    * How long did it take your team to complete this exercise? 
 
 ## Table of Contents

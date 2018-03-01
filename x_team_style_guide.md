@@ -27,13 +27,53 @@ comment complex algorithms.
 
 ### Examples
 
-* classes
-* fields
-* constructors
-* methods
+* classes - indicate author, description
+
+//@author - NAME
+public class Fish {}
+
+* fields - no comment necessary
+
+private int size;
+
+* constructors - javadoc
+
+/**
+ * @param length - the length of the fish object to be constructed
+**/
+public Fish(int length) {}
+
+* methods - javadoc (function, parameter, return type)
+
+/**
+ * @return the length of the fish
+**/
+public int getLength() {}
+
 * coding style (brackets, horizontal, and vertical spacing) for:
   * if statements
+  
+  if (A == B) {}
+  
   * switch statement
+  
+   int month = 8;
+   String monthString;
+   switch (month) {
+      case 1:  monthString = "January";
+               break;
+      case 2:  monthString = "February";
+               break;
+   }
+  
   * while loops
+  
+  while (true) {}
+  
   * for loops
+  
+  for (int i = 0; i < TABLE_SIZE; i++) {}
+  
   * enhanced for loops
+  
+  for (int i : list) {}

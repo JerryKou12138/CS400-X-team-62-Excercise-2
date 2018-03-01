@@ -1,4 +1,4 @@
-# CS400-X-team-Excercise-2
+# CS400-X-team-62-Excercise-2
 
 1. Replace the repository name in the title above with the name of your team's GitHub repository for this exercise.
 2. Answer these questions

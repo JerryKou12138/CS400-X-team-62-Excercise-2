@@ -7,7 +7,7 @@
        * GitHub username 2: sam23leblanc
        * GitHub username 3: james-kuoppala
        * GitHub username 4: jlatts7
-       * GitHub username 5:
+       * GitHub username 5: Zhelong Li (real name instead of the username)
    * When did you complete this exercise? 
         6:00 pm - Wednesday (2/28/18)
    * How long did it take your team to complete this exercise? 

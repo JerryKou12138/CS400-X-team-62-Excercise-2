@@ -11,6 +11,7 @@ and missed deadlines.
 ## How we will assign (and reassign) tasks
     - use our group message to delegate what needs to be done
     - volunteer first for tasks, then choose randomly
+    - first make sure everyone knows how to do their task, if not we can swap tasks
 
 
 ## How will we will track progress (and follow-up) on completion of tasks
